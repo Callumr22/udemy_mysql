@@ -5,7 +5,7 @@
 -- show current dbs
 show databases;
 
--- create a test db
+-- create a test db -test
 CREATE DATABASE hello_world_db;
 show databases;
 
