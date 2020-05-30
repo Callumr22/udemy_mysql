@@ -2,16 +2,8 @@
 -- Create SQL DB within MYSQL server e.g. set up locally on mac on MySQL community server
 -- #######################################################################################
 
--- Onening SQL server - start up server system preferences > mysql > Start MySQL Server
-
--- Run in terminal
-export PATH=${PATH}:/usr/local/mysql/bin/ 
--- and 
-
-
 -- show current dbs
 show databases;
--- MySQL monitor terminal should start up and allow you to enter mysql commands
 
 -- create a test db
 CREATE DATABASE hello_world_db;
